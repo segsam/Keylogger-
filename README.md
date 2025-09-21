@@ -1,6 +1,6 @@
 # Keylogger-
 
-from pynput import keyboard
+from pynput import keyboard 
 
 # Define the log file
 log_file = "key_log.txt"
